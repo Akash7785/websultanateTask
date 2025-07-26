@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Crazy Designers",
+    "category": ["Streetwear", "Watches"],
+    "price": 390,
+    "label": ["New", "Hot", "Popular"],
+    "image": "/featuredBox/image1.png"
+  },
+  {
+    "id": 2,
+    "name": "Card Trader",
+    "category": ["Streetwear", "Watches"],
+    "price": 50,
+    "label": ["Hot"],
+    "image": "/featuredBox/image2.png"
+  },
+  {
+    "id": 3,
+    "name": "Your Home",
+    "category": ["Streetwear", "Watches"],
+    "price": 100,
+    "label": ["Popular"],
+    "image": "/featuredBox/image3.png"
+  },
+  {
+    "id": 4,
+    "name": "Pokemon Trainer",
+    "category": ["Streetwear", "Watches"],
+    "price": 450,
+    "label": ["New"],
+    "image": "/featuredBox/image4.png"
+  },
+  {
+    "id": 5,
+    "name": "Luxury Watch",
+    "category": ["Watches", "Streetwear"],
+    "price": 1200,
+    "label": ["Popular"],
+    "image": "/featuredBox/image5.png"
+  },
+  {
+    "id": 6,
+    "name": "Crazy Designers",
+    "category": ["Streetwear", "Watches"],
+    "price": 390,
+    "label": [],
+    "image": "/featuredBox/image1.png"
+  },
+  {
+    "id": 7,
+    "name": "Card Trader",
+    "category": ["Streetwear", "Watches"],
+    "price": 50,
+    "label": ["Hot"],
+    "image": "/featuredBox/image2.png"
+  },
+  {
+    "id": 8,
+    "name": "Your Home",
+    "category": ["Streetwear", "Watches"],
+    "price": 100,
+    "label": [],
+    "image": "/featuredBox/image3.png"
+  },
+  {
+    "id": 9,
+    "name": "Pokemon Trainer",
+    "category": ["Streetwear", "Watches"],
+    "price": 450,
+    "label": ["New"],
+    "image": "/featuredBox/image4.png"
+  },
+  {
+    "id": 10,
+    "name": "Luxury Watch",
+    "category": ["Watches", "Streetwear"],
+    "price": 1200,
+    "label": [],
+    "image": "/featuredBox/image5.png"
+  }
+]

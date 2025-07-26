@@ -1,0 +1,106 @@
+[
+  {
+    "avatars": [
+        {"avt": "/avtar/avt01.png"},
+        {"avt":"/avtar/avt02.png" },
+        {"avt":"/avtar/avt03.png"},
+        {"avt":"/avtar/avt04.png"}
+    ],
+    "boxes": [
+        {"image":"/images/box1.png"},
+        {"image":"/images/box2.png"},
+        {"image":"/images/box3.png"},
+        {"image":"/images/box4.png"},
+        {"image":"/images/box5.png"},
+        {"image":"/images/box6.png"},
+        {"image":"/images/box7.png"},       
+        {"image":"/images/box8.png"}
+    ]
+  },  {
+    "avatars": [
+        {"avt": "/avtar/avt16.png"},
+        {"avt":"/avtar/avt12.png" },
+        {"avt":"/avtar/avt13.png"},
+        {"avt":"/avtar/avt14.png"}
+    ],
+    "boxes": [
+        {"image":"/images/box2.png"},
+        {"image":"/images/box1.png"},
+        {"image":"/images/box5.png"},
+        {"image":"/images/box3.png"},
+        {"image":"/images/box4.png"},
+        {"image":"/images/box7.png"},       
+        {"image":"/images/box6.png"},
+        {"image":"/images/box8.png"}
+    ]
+  },  {
+    "avatars": [
+        {"avt": "/avtar/avt05.png"},
+        {"avt":"/avtar/avt03.png"},
+        {"avt":"/avtar/avt08.png" },
+        {"avt":"/avtar/avt07.png"}
+    ],
+    "boxes": [
+        {"image":"/images/box7.png"},       
+        {"image":"/images/box3.png"},
+        {"image":"/images/box4.png"},
+        {"image":"/images/box5.png"},
+        {"image":"/images/box2.png"},
+        {"image":"/images/box6.png"},
+        {"image":"/images/box1.png"},
+        {"image":"/images/box8.png"}
+    ]
+  },
+   {
+    "avatars": [
+        {"avt": "/avtar/avt05.png"},
+        {"avt":"/avtar/avt03.png"},
+        {"avt":"/avtar/avt08.png" },
+        {"avt":"/avtar/avt07.png"}
+    ],
+    "boxes": [
+        {"image":"/images/box3.png"},
+        {"image":"/images/box4.png"},
+        {"image":"/images/box7.png"},       
+        {"image":"/images/box5.png"},
+        {"image":"/images/box8.png"},
+        {"image":"/images/box1.png"},
+        {"image":"/images/box2.png"},
+        {"image":"/images/box6.png"}
+    ]
+  }, {
+    "avatars": [
+        {"avt": "/avtar/avt05.png"},
+        {"avt":"/avtar/avt03.png"},
+        {"avt":"/avtar/avt08.png" },
+        {"avt":"/avtar/avt07.png"}
+    ],
+    "boxes": [
+        {"image":"/images/box5.png"},
+        {"image":"/images/box3.png"},
+        {"image":"/images/box4.png"},
+        {"image":"/images/box2.png"},
+        {"image":"/images/box7.png"},       
+        {"image":"/images/box6.png"},
+        {"image":"/images/box8.png"},
+        {"image":"/images/box1.png"}
+    ]
+  }, {
+    "avatars": [
+        {"avt": "/avtar/avt05.png"},
+        {"avt":"/avtar/avt03.png"},
+        {"avt":"/avtar/avt08.png" },
+        {"avt":"/avtar/avt07.png"}
+    ],
+    "boxes": [
+        {"image":"/images/box3.png"},
+        {"image":"/images/box7.png"},       
+        {"image":"/images/box5.png"},
+        {"image":"/images/box4.png"},
+        {"image":"/images/box2.png"},
+        {"image":"/images/box1.png"},
+        {"image":"/images/box6.png"},
+        {"image":"/images/box8.png"}
+    ]
+  }
+]
