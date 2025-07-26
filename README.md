@@ -1,16 +1,16 @@
-React Interview Task – UI Implementation
+# React Interview Task – UI Implementation
 This project is a React-based implementation of a given Figma UI design as part of an interview assignment. The goal was to translate the provided design into a responsive and maintainable React application, while ensuring future scalability and ease of data updates.
 
 ✨ Features
-🔧 Component-Based Architecture: The entire UI is broken down into reusable and modular React components for better scalability and code readability.
+## 🔧 Component-Based Architecture: The entire UI is broken down into reusable and modular React components for better scalability and code readability.
 
-🎨 Pixel-Perfect Design: UI closely matches the provided Figma design.
+## 🎨 Pixel-Perfect Design: UI closely matches the provided Figma design.
 
-🔄 Dynamic Data Rendering: Extracted UI content from the design and converted it into a structured JSON file for flexible data management.
+## 🔄 Dynamic Data Rendering: Extracted UI content from the design and converted it into a structured JSON file for flexible data management.
 
-⚙️ State Management: Utilized useState and useEffect hooks to manage and populate dynamic content.
+## ⚙️ State Management: Utilized useState and useEffect hooks to manage and populate dynamic content.
 
-🔗 API-Like Data Handling: Fetched data from a local JSON file to simulate API behavior, making future integration with backend services seamless.
+## 🔗 API-Like Data Handling: Fetched data from a local JSON file to simulate API behavior, making future integration with backend services seamless.
 
 🛠️ Tech Stack
 React (Vite-based setup)
