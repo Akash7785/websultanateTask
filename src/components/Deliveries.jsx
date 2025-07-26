@@ -8,7 +8,7 @@ const Deliveries = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch("/deliveries.json");
+        const response = await fetch("/data/deliveries.json");
         const json = await response.json();
         setReviews(json);
       } catch (error) {

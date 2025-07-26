@@ -6,7 +6,7 @@ const LiveDrop = () => {
 
   useEffect(() => {
     const fetchData = async () => {
-      const res = await fetch("/live.json");
+      const res = await fetch("/data/live.json");
       const data = await res.json();
       setLiveData(data);
     };

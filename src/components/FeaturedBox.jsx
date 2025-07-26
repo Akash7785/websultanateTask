@@ -10,7 +10,7 @@ const FeaturedBox = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch("/featuredData.json");
+        const response = await fetch("/data/featuredData.json");
         const json = await response.json();
         setData(json);
       } catch (error) {

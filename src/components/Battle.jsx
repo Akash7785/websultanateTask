@@ -6,7 +6,7 @@ const Battle = () => {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    fetch("/battel.json")
+    fetch("/data/battel.json")
       .then((response) => response.json())
       .then((data) => setData(data));
   }, []);
