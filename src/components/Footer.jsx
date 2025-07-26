@@ -1,5 +1,5 @@
 import React from "react";
-import star from "../assets/star.png";
+import star from "../assets/Star.png";
 import { FaTwitter, FaInstagram, FaTiktok, FaYoutube } from "react-icons/fa";
 
 const links = [
